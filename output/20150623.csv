@@ -37,10 +37,22 @@ in transit,?, 2016 Subaru WRX,Lapis Blue Pearl,"$41,030",?,temecula.subaru
 in transit,?, 2016 Subaru WRX,ICE Silver,"$41,128",?,kirby-ventura.subaru
 in transit,?, 2016 Subaru WRX,ICE Silver,"$41,128",?,kirby-ventura.subaru
 in transit,?, 2016 Subaru WRX,WR Blue Pearl,"$41,128",?,kirby-ventura.subaru
+in transit,GUN,"WRX, manual",Crystal White Pearl,"$27,552",JF1VA1B61G9803731,kearnymesa.subaru
+in transit,GUN,"WRX, manual",Crystal White Pearl,"$27,552",JF1VA1B62G9804936,bobbaker-carlsbad.subaru
 inventory,GUN,"WRX, manual",ICE Silver,"$27,552",JF1VA1B66G9802526,glendale.subaru
 inventory,GUN,"WRX, manual",ICE Silver,"$27,552",JF1VA1B69G9803248,renicksubaru
 inventory,GUN,"WRX, manual",ICE Silver,"$27,552",JF1VA1B68G9802723,renicksubaru
+in transit,GUN,"WRX, manual",Lapis Blue Pearl,"$27,552",JF1VA1B69G9803833,bobbaker-carlsbad.subaru
+in transit,GUN,"WRX, manual",Crystal Black Silica,"$27,628",JF1VA1B61G9804443,elcajon.subaru
+in transit,GUN,"WRX, manual",Crystal White Pearl,"$27,628",JF1VA1B6XG9803677,palmsprings.subaru
+in transit,GUN,"WRX, manual",Crystal White Pearl,"$27,628",JF1VA1B69G9803945,palmsprings.subaru
 in transit,GUN,"WRX, manual",Dark Gray,"$27,628",JF1VA1B61G9803664,southcoast.subaru
+in transit,GUN,"WRX, manual",Dark Gray,"$27,628",JF1VA1B63G9804105,elcajon.subaru
+in transit,GUN,"WRX, manual",Dark Gray,"$27,628",JF1VA1B62G9804449,frank.subaru
+in transit,GUN,"WRX, manual",ICE Silver,"$27,628",JF1VA1B61G9804071,frank.subaru
+in transit,GUN,"WRX, manual",ICE Silver,"$27,628",JF1VA1B60G9804000,frank.subaru
+in transit,GUN,"WRX, manual",WR Blue Pearl,"$27,628",JF1VA1B69G9804951,frank.subaru
+inventory,GUN,"WRX, manual",WR Blue Pearl,"$27,628",JF1VA1B69G9802701,kearnymesa.subaru
 in transit,GUN,"WRX, manual",Crystal Black Silica,"$27,630",JF1VA1B6XG9804182,renicksubaru
 in transit,GUN,"WRX, manual",Crystal White Pearl,"$27,630",JF1VA1B67G9804902,timmonssubaru
 in transit,GUN,"WRX, manual",Crystal White Pearl,"$27,630",JF1VA1B65G9804462,glendale.subaru
@@ -50,8 +62,8 @@ in transit,GUN,"WRX, manual",Dark Gray,"$27,630",JF1VA1B65G9804056,subarupacific
 in transit,GUN,"WRX, manual",Dark Gray,"$27,630",JF1VA1B66G9805197,subarupacific
 in transit,GUN,"WRX, manual",Dark Gray,"$27,630",JF1VA1B63G9804993,puente-hills.subaru
 in transit,GUN,"WRX, manual",Dark Gray,"$27,630",JF1VA1B65G9804719,puente-hills.subaru
-inventory,GUN,"WRX, manual",Dark Gray,"$27,630",JF1VA1B69G9803203,ontario-ca.subaru
 inventory,GUN,"WRX, manual",Dark Gray,"$27,630",JF1VA1B69G9803329,ontario-ca.subaru
+inventory,GUN,"WRX, manual",Dark Gray,"$27,630",JF1VA1B69G9803203,ontario-ca.subaru
 in transit,GUN,"WRX, manual",Dark Gray,"$27,630",JF1VA1B68G9804486,sanbernardino.subaru
 in transit,GUN,"WRX, manual",Dark Gray,"$27,630",JF1VA1B68G9804715,sanbernardino.subaru
 in transit,GUN,"WRX, manual",ICE Silver,"$27,630",JF1VA1B69G9805341,subarupacific
@@ -73,23 +85,45 @@ in transit,GUN,"WRX, manual",Dark Gray,"$27,728",JF1VA1B69G9803928,ladin.subaru
 in transit,GUN,"WRX, manual",ICE Silver,"$27,728",JF1VA1B65G9805191,subarushermanoaks
 in transit,GUN,"WRX, manual",ICE Silver,"$27,728",JF1VA1B60G9805146,galpin.subaru
 in transit,GUN,"WRX, manual",ICE Silver,"$27,728",JF1VA1B63G9804329,galpin.subaru
+in transit,GUN,"WRX, manual",Lapis Blue Pearl,"$27,728",JF1VA1B61G9804894,sangera.subaru
 in transit,GUN,"WRX, manual",WR Blue Pearl,"$27,728",JF1VA1B68G9805170,subarushermanoaks
 in transit,GUN,"WRX, manual",WR Blue Pearl,"$27,728",JF1VA1B60G9803896,ladin.subaru
 inventory,GUN,"WRX, manual",WR Blue Pearl,"$27,788",JF1VA1B67G9802955,glendale.subaru
+in transit,GUN,"WRX, manual",Crystal White Pearl,"$27,886",JF1VA1B64G9804811,av.subaru
+inventory,GUN,"WRX, manual",Dark Gray,"$27,886",JF1VA1B67G9803359,sangera.subaru
 inventory,GUN,"WRX, manual",ICE Silver,"$27,886",JF1VA1B63G9803147,subarushermanoaks
+in transit,GUO,"WRX Premium, manual",Crystal Black Silica,"$29,852",JF1VA1E61G9803692,kearnymesa.subaru
 in transit,GUO,"WRX Premium, manual",Crystal White Pearl,"$29,852",JF1VA1E64G9802987,timmonssubaru
 inventory,GUO,"WRX Premium, manual",Crystal White Pearl,"$29,852",JF1VA1E61G9803515,renicksubaru
+in transit,GUO,"WRX Premium, manual",Crystal White Pearl,"$29,852",JF1VA1E63G9803287,frank.subaru
+in transit,GUO,"WRX Premium, manual",Dark Gray,"$29,852",JF1VA1E60G9803778,kearnymesa.subaru
+in transit,GUO,"WRX Premium, manual",Dark Gray,"$29,852",JF1VA1E62G9804074,bobbaker-carlsbad.subaru
 inventory,GUO,"WRX Premium, manual",ICE Silver,"$29,852",JF1VA1E65G9803467,southcoast.subaru
+in transit,GUO,"WRX Premium, manual",ICE Silver,"$29,852",JF1VA1E64G9804397,elcajon.subaru
+in transit,GUO,"WRX Premium, manual",ICE Silver,"$29,852",JF1VA1E69G9803469,frank.subaru
 in transit,GUO,"WRX Premium, manual",Lapis Blue Pearl,"$29,852",JF1VA1E69G9802760,timmonssubaru
+in transit,GUO,"WRX Premium, manual",WR Blue Pearl,"$29,852",JF1VA1E67G9804331,elcajon.subaru
 in transit,GUO,"WRX Premium, manual",Crystal Black Silica,"$29,928",JF1VA1E6XG9804212,southcoast.subaru
 in transit,GUO,"WRX Premium, manual",Crystal Black Silica,"$29,928",JF1VA1E67G9804278,southcoast.subaru
+in transit,GUO,"WRX Premium, manual",Crystal Black Silica,"$29,928",JF1VA1E6XG9804341,bobbaker-carlsbad.subaru
 inventory,GUO,"WRX Premium, manual",Crystal White Pearl,"$29,928",JF1VA1E64G9802939,southcoast.subaru
 in transit,GUO,"WRX Premium, manual",Crystal White Pearl,"$29,928",JF1VA1E68G9804063,irvine.subaru
+in transit,GUO,"WRX Premium, manual",Crystal White Pearl,"$29,928",JF1VA1E62G9804270,bobbaker-carlsbad.subaru
+in transit,GUO,"WRX Premium, manual",Crystal White Pearl,"$29,928",JF1VA1E68G9804161,bobbaker-carlsbad.subaru
 in transit,GUO,"WRX Premium, manual",Dark Gray,"$29,928",JF1VA1E65G9804456,southcoast.subaru
 in transit,GUO,"WRX Premium, manual",Dark Gray,"$29,928",JF1VA1E6XG9803853,southcoast.subaru
 in transit,GUO,"WRX Premium, manual",Dark Gray,"$29,928",JF1VA1E66G9804448,irvine.subaru
+in transit,GUO,"WRX Premium, manual",Dark Gray,"$29,928",JF1VA1E67G9804992,frank.subaru
+in transit,GUO,"WRX Premium, manual",ICE Silver,"$29,928",JF1VA1E68G9805066,frank.subaru
+in transit,GUO,"WRX Premium, manual",ICE Silver,"$29,928",JF1VA1E69G9803844,bobbaker-carlsbad.subaru
+in transit,GUO,"WRX Premium, manual",ICE Silver,"$29,928",JF1VA1E64G9804464,bobbaker-carlsbad.subaru
+in transit,GUO,"WRX Premium, manual",ICE Silver,"$29,928",JF1VA1E61G9805362,bobbaker-carlsbad.subaru
+in transit,GUO,"WRX Premium, manual",ICE Silver,"$29,928",JF1VA1E6XG9803139,palmsprings.subaru
 inventory,GUO,"WRX Premium, manual",Lapis Blue Pearl,"$29,928",JF1VA1E68G9802796,southcoast.subaru
 in transit,GUO,"WRX Premium, manual",WR Blue Pearl,"$29,928",JF1VA1E68G9804290,irvine.subaru
+in transit,GUO,"WRX Premium, manual",WR Blue Pearl,"$29,928",JF1VA1E69G9804430,kearnymesa.subaru
+in transit,GUO,"WRX Premium, manual",WR Blue Pearl,"$29,928",JF1VA1E64G9804092,kearnymesa.subaru
+in transit,GUO,"WRX Premium, manual",WR Blue Pearl,"$29,928",JF1VA1E61G9803918,kearnymesa.subaru
 in transit,GUO,"WRX Premium, manual",Crystal Black Silica,"$29,930",JF1VA1E67G9803633,subarupacific
 in transit,GUO,"WRX Premium, manual",Crystal Black Silica,"$29,930",JF1VA1E61G9804275,glendale.subaru
 in transit,GUO,"WRX Premium, manual",Crystal Black Silica,"$29,930",JF1VA1E61G9803868,ontario-ca.subaru
@@ -113,15 +147,27 @@ in transit,GUO,"WRX Premium, manual",WR Blue Pearl,"$29,930",JF1VA1E6XG9803948,t
 in transit,GUO,"WRX Premium, manual",WR Blue Pearl,"$29,930",JF1VA1E63G9805315,glendale.subaru
 in transit,GUO,"WRX Premium, manual",WR Blue Pearl,"$29,930",JF1VA1E64G9803850,renicksubaru
 in transit,GUO,"WRX Premium, manual",WR Blue Pearl,"$29,930",JF1VA1E6XG9804971,sanbernardino.subaru
+in transit,GUO,"WRX Premium, manual",Crystal Black Silica,"$30,028",JF1VA1E6XG9805098,av.subaru
+in transit,GUO,"WRX Premium, manual",Crystal Black Silica,"$30,028",JF1VA1E65G9804814,sangera.subaru
+in transit,GUO,"WRX Premium, manual",Crystal Black Silica,"$30,028",JF1VA1E65G9804988,sangera.subaru
+in transit,GUO,"WRX Premium, manual",Crystal White Pearl,"$30,028",JF1VA1E69G9804234,av.subaru
+in transit,GUO,"WRX Premium, manual",Crystal White Pearl,"$30,028",JF1VA1E62G9804267,av.subaru
+in transit,GUO,"WRX Premium, manual",Crystal White Pearl,"$30,028",JF1VA1E67G9803910,sangera.subaru
+in transit,GUO,"WRX Premium, manual",Crystal White Pearl,"$30,028",JF1VA1E69G9803715,sangera.subaru
 in transit,GUO,"WRX Premium, manual",Dark Gray,"$30,028",JF1VA1E63G9804908,subarushermanoaks
 in transit,GUO,"WRX Premium, manual",Dark Gray,"$30,028",JF1VA1E66G9805132,ladin.subaru
+in transit,GUO,"WRX Premium, manual",Dark Gray,"$30,028",JF1VA1E65G9804960,av.subaru
 in transit,GUO,"WRX Premium, manual",ICE Silver,"$30,028",JF1VA1E66G9804983,galpin.subaru
+in transit,GUO,"WRX Premium, manual",ICE Silver,"$30,028",JF1VA1E68G9803690,av.subaru
+in transit,GUO,"WRX Premium, manual",Crystal White Pearl,"$30,186",JF1VA1E68G9803141,av.subaru
 in transit,GUO,"WRX Premium, manual",Dark Gray,"$30,186",JF1VA1E62G9805175,ladin.subaru
 inventory,GUO,"WRX Premium, manual",ICE Silver,"$30,186",JF1VA1E66G9802778,subarushermanoaks
 inventory,GUO,"WRX Premium, manual",Lapis Blue Pearl,"$30,186",JF1VA1E64G9803511,galpin.subaru
+in transit,GUO,"WRX Premium, manual",Lapis Blue Pearl,"$30,186",JF1VA1E68G9803365,sangera.subaru
 in transit,GUO,"WRX Premium, manual",Pure Red,"$30,186",JF1VA1E60G9804185,ladin.subaru
 inventory,GUO,"WRX Premium, manual",WR Blue Pearl,"$30,186",JF1VA1E68G9803348,subarushermanoaks
 in transit,GUO,"WRX Premium, manual",Dark Gray,"$32,028",JF1VA1F65G9804911,southcoast.subaru
+in transit,GUO,"WRX Premium, manual",ICE Silver,"$32,028",JF1VA1F64G9804706,palmsprings.subaru
 in transit,GUO,"WRX Premium, manual",WR Blue Pearl,"$32,028",JF1VA1F62G9805272,irvine.subaru
 in transit,GUO,"WRX Premium, manual",WR Blue Pearl,"$32,028",JF1VA1F66G9803959,irvine.subaru
 in transit,GUO,"WRX Premium, manual",Crystal Black Silica,"$32,030",JF1VA1F64G9804124,subarupacific
@@ -138,9 +184,12 @@ in transit,GUO,"WRX Premium, manual",Crystal Black Silica,"$32,128",JF1VA1F62G98
 in transit,GUO,"WRX Premium, manual",Crystal White Pearl,"$32,128",JF1VA1F65G9805069,subarusantamonica
 inventory,GUO,"WRX Premium, manual",ICE Silver,"$32,128",JF1VA1F67G9803209,subarushermanoaks
 in transit,GUO,"WRX Premium, manual",ICE Silver,"$32,128",JF1VA1F66G9805534,ladin.subaru
+in transit,GUO,"WRX Premium, manual",WR Blue Pearl,"$32,128",JF1VA1F6XG9803950,sangera.subaru
+in transit,GUO,"WRX Premium, manual",WR Blue Pearl,"$32,366",JF1VA1F63G9805121,bobbaker-carlsbad.subaru
 inventory,GUP,"WRX Premium, CVT",Crystal White Pearl,"$31,052",JF1VA1E67G8802407,ontario-ca.subaru
 inventory,GUP,"WRX Premium, CVT",Dark Gray,"$31,052",JF1VA1E66G8802852,sierra.subaru
 in transit,GUP,"WRX Premium, CVT",ICE Silver,"$31,052",JF1VA1E64G8804678,southcoast.subaru
+in transit,GUP,"WRX Premium, CVT",WR Blue Pearl,"$31,052",JF1VA1E60G8804421,palmsprings.subaru
 in transit,GUP,"WRX Premium, CVT",Crystal Black Silica,"$31,130",JF1VA1E66G8805119,renicksubaru
 in transit,GUP,"WRX Premium, CVT",Crystal Black Silica,"$31,130",JF1VA1E63G8805630,puente-hills.subaru
 in transit,GUP,"WRX Premium, CVT",Crystal Black Silica,"$31,130",JF1VA1E60G8803964,ontario-ca.subaru
@@ -163,16 +212,32 @@ in transit,GUP,"WRX Premium, CVT",WR Blue Pearl,"$31,130",JF1VA1E61G8805352,timm
 in transit,GUP,"WRX Premium, CVT",WR Blue Pearl,"$31,130",JF1VA1E63G8804333,glendale.subaru
 inventory,GUP,"WRX Premium, CVT",WR Blue Pearl,"$31,130",JF1VA1E64G8802848,puente-hills.subaru
 in transit,GUP,"WRX Premium, CVT",WR Blue Pearl,"$31,130",JF1VA1E61G8805125,singh.subaru
+in transit,GUP,"WRX Premium, CVT",Crystal White Pearl,"$31,228",JF1VA1E66G8805489,av.subaru
+in transit,GUP,"WRX Premium, CVT",Crystal White Pearl,"$31,228",JF1VA1E6XG8803003,sangera.subaru
+in transit,GUP,"WRX Premium, CVT",Dark Gray,"$31,228",JF1VA1E62G8804310,sangera.subaru
 in transit,GUP,"WRX Premium, CVT",ICE Silver,"$31,228",JF1VA1E69G8805647,subarushermanoaks
 in transit,GUP,"WRX Premium, CVT",WR Blue Pearl,"$31,228",JF1VA1E63G8804624,ladin.subaru
+in transit,GUP,"WRX Premium, CVT",WR Blue Pearl,"$31,228",JF1VA1E61G8805545,av.subaru
 in transit,GUP,"WRX Premium, CVT",Crystal Black Silica,"$31,286",JF1VA1E60G8804516,irvine.subaru
 in transit,GUP,"WRX Premium, CVT",Crystal White Pearl,"$31,286",JF1VA1E6XG8804300,southcoast.subaru
+in transit,GUP,"WRX Premium, CVT",Crystal White Pearl,"$31,286",JF1VA1E65G8804107,elcajon.subaru
+in transit,GUP,"WRX Premium, CVT",Crystal White Pearl,"$31,286",JF1VA1E60G8805598,frank.subaru
+in transit,GUP,"WRX Premium, CVT",Crystal White Pearl,"$31,286",JF1VA1E60G8804807,kearnymesa.subaru
 in transit,GUP,"WRX Premium, CVT",Dark Gray,"$31,286",JF1VA1E69G8805535,southcoast.subaru
 in transit,GUP,"WRX Premium, CVT",Dark Gray,"$31,286",JF1VA1E66G8804617,irvine.subaru
+in transit,GUP,"WRX Premium, CVT",Dark Gray,"$31,286",JF1VA1E6XG8803552,bobbaker-carlsbad.subaru
 in transit,GUP,"WRX Premium, CVT",ICE Silver,"$31,286",JF1VA1E66G8805220,irvine.subaru
+in transit,GUP,"WRX Premium, CVT",ICE Silver,"$31,286",JF1VA1E63G8805451,kearnymesa.subaru
+in transit,GUP,"WRX Premium, CVT",ICE Silver,"$31,286",JF1VA1E64G8805569,kearnymesa.subaru
+in transit,GUP,"WRX Premium, CVT",ICE Silver,"$31,286",JF1VA1E63G8804302,bobbaker-carlsbad.subaru
 in transit,GUP,"WRX Premium, CVT",Lapis Blue Pearl,"$31,286",JF1VA1E63G8805126,irvine.subaru
+in transit,GUP,"WRX Premium, CVT",Lapis Blue Pearl,"$31,286",JF1VA1E65G8803975,elcajon.subaru
+in transit,GUP,"WRX Premium, CVT",Lapis Blue Pearl,"$31,286",JF1VA1E63G8805658,bobbaker-carlsbad.subaru
 in transit,GUP,"WRX Premium, CVT",WR Blue Pearl,"$31,286",JF1VA1E60G8805052,irvine.subaru
+in transit,GUP,"WRX Premium, CVT",WR Blue Pearl,"$31,286",JF1VA1E63G8804820,frank.subaru
+in transit,GUP,"WRX Premium, CVT",WR Blue Pearl,"$31,286",JF1VA1E69G8803686,bobbaker-carlsbad.subaru
 in transit,GUP,"WRX Premium, CVT",Dark Gray,"$31,386",JF1VA1E62G8805232,galpin.subaru
+in transit,GUP,"WRX Premium, CVT",ICE Silver,"$31,386",JF1VA1E69G8804952,av.subaru
 inventory,GUQ,"WRX Limited, manual",Crystal Black Silica,"$31,352",JF1VA1J6XG9803325,renicksubaru
 inventory,GUQ,"WRX Limited, manual",Crystal White Pearl,"$31,352",JF1VA1J67G9802665,renicksubaru
 in transit,GUQ,"WRX Limited, manual",Crystal White Pearl,"$31,430",JF1VA1J62G9804940,subarupacific
@@ -189,18 +254,36 @@ in transit,GUQ,"WRX Limited, manual",ICE Silver,"$31,528",JF1VA1J6XG9802904,suba
 inventory,GUQ,"WRX Limited, manual",Crystal White Pearl,"$31,686",JF1VA1J67G9802861,ladin.subaru
 inventory,GUQ,"WRX Limited, manual",ICE Silver,"$31,686",JF1VA1J64G9803112,ladin.subaru
 inventory,GUQ,"WRX Limited, manual",WR Blue Pearl,"$31,686",JF1VA1J64G9802963,galpin.subaru
+in transit,GUQ,"WRX Limited, manual",WR Blue Pearl,"$31,686",JF1VA1J61G9805450,sangera.subaru
+in transit,GUQ,"WRX Limited, manual",Crystal Black Silica,"$31,766",JF1VA1J61G9803584,frank.subaru
 inventory,GUQ,"WRX Limited, manual",Crystal White Pearl,"$31,766",JF1VA1J62G9803481,southcoast.subaru
+in transit,GUQ,"WRX Limited, manual",Crystal White Pearl,"$31,766",JF1VA1J67G9802956,bobbaker-carlsbad.subaru
 in transit,GUQ,"WRX Limited, manual",ICE Silver,"$31,766",JF1VA1J6XG9802577,southcoast.subaru
+in transit,GUQ,"WRX Limited, manual",WR Blue Pearl,"$31,766",JF1VA1J61G9803701,frank.subaru
 in transit,GUQ,"WRX Limited, manual",Crystal White Pearl,"$31,842",JF1VA1J63G9805336,irvine.subaru
+in transit,GUQ,"WRX Limited, manual",Crystal White Pearl,"$31,842",JF1VA1J61G9804640,frank.subaru
+in transit,GUQ,"WRX Limited, manual",Dark Gray,"$31,842",JF1VA1J67G9804240,elcajon.subaru
+in transit,GUQ,"WRX Limited, manual",ICE Silver,"$31,842",JF1VA1J61G9805223,kearnymesa.subaru
 in transit,GUQ,"WRX Limited, manual",Lapis Blue Pearl,"$31,842",JF1VA1J62G9804629,irvine.subaru
+in transit,GUQ,"WRX Limited, manual",Lapis Blue Pearl,"$31,842",JF1VA1J69G9804188,kearnymesa.subaru
+in transit,GUQ,"WRX Limited, manual",Lapis Blue Pearl,"$31,842",JF1VA1J6XG9802868,kearnymesa.subaru
+in transit,GUQ,"WRX Limited, manual",Lapis Blue Pearl,"$31,842",JF1VA1J67G9805288,kearnymesa.subaru
+in transit,GUQ,"WRX Limited, manual",WR Blue Pearl,"$31,842",JF1VA1J65G9804432,elcajon.subaru
+in transit,GUQ,"WRX Limited, manual",WR Blue Pearl,"$31,842",JF1VA1J67G9805128,kearnymesa.subaru
 in transit,GUQ,"WRX Limited, manual",ICE Silver,"$34,530",JF1VA1L62G9804014,timmonssubaru
 in transit,GUQ,"WRX Limited, manual",ICE Silver,"$34,530",JF1VA1L66G9804114,ontario-ca.subaru
 in transit,GUQ,"WRX Limited, manual",ICE Silver,"$34,530",JF1VA1L61G9805090,sanbernardino.subaru
 in transit,GUQ,"WRX Limited, manual",Lapis Blue Pearl,"$34,530",JF1VA1L6XG9803998,renicksubaru
 in transit,GUQ,"WRX Limited, manual",WR Blue Pearl,"$34,530",JF1VA1L64G9804323,subarupacific
 in transit,GUQ,"WRX Limited, manual",Pure Red,"$34,628",JF1VA1L63G9804149,subarushermanoaks
+in transit,GUQ,"WRX Limited, manual",Pure Red,"$34,628",JF1VA1L67G9804025,av.subaru
 in transit,GUQ,"WRX Limited, manual",Crystal Black Silica,"$34,942",JF1VA1L63G9804359,southcoast.subaru
+in transit,GUQ,"WRX Limited, manual",Crystal Black Silica,"$34,942",JF1VA1L6XG9804147,elcajon.subaru
+in transit,GUQ,"WRX Limited, manual",Dark Gray,"$34,942",JF1VA1L64G9805536,frank.subaru
+in transit,GUQ,"WRX Limited, manual",ICE Silver,"$34,942",JF1VA1L66G9805425,bobbaker-carlsbad.subaru
 in transit,GUQ,"WRX Limited, manual",Lapis Blue Pearl,"$34,942",JF1VA1L69G9803989,irvine.subaru
+in transit,GUR,"WRX Limited, CVT",Crystal Black Silica,"$32,471",JF1VA1J64G8804024,elcajon.subaru
+in transit,GUR,"WRX Limited, CVT",Crystal White Pearl,"$32,471",JF1VA1J66G8804137,kearnymesa.subaru
 in transit,GUR,"WRX Limited, CVT",WR Blue Pearl,"$32,471",JF1VA1J66G8805448,irvine.subaru
 inventory,GUR,"WRX Limited, CVT",Crystal Black Silica,"$32,552",JF1VA1J65G8802931,puente-hills.subaru
 in transit,GUR,"WRX Limited, CVT",Crystal Black Silica,"$32,630",JF1VA1J63G8803852,timmonssubaru
@@ -216,14 +299,19 @@ in transit,GUR,"WRX Limited, CVT",WR Blue Pearl,"$32,630",JF1VA1J68G8804379,glen
 in transit,GUR,"WRX Limited, CVT",WR Blue Pearl,"$32,630",JF1VA1J65G8805375,singh.subaru
 in transit,GUR,"WRX Limited, CVT",WR Blue Pearl,"$32,630",JF1VA1J69G8804150,sanbernardino.subaru
 in transit,GUR,"WRX Limited, CVT",Crystal White Pearl,"$32,758",JF1VA1J65G8803979,subarushermanoaks
+in transit,GUR,"WRX Limited, CVT",Crystal White Pearl,"$32,758",JF1VA1J69G8805511,sangera.subaru
 in transit,GUR,"WRX Limited, CVT",Dark Gray,"$32,758",JF1VA1J60G8804537,subarusantamonica
 in transit,GUR,"WRX Limited, CVT",ICE Silver,"$32,758",JF1VA1J68G8804527,galpin.subaru
 in transit,GUR,"WRX Limited, CVT",WR Blue Pearl,"$32,758",JF1VA1J69G8805475,subarushermanoaks
 in transit,GUR,"WRX Limited, CVT",WR Blue Pearl,"$32,758",JF1VA1J68G8804236,ladin.subaru
 in transit,GUR,"WRX Limited, CVT",Crystal Black Silica,"$32,786",JF1VA1J68G8805564,southcoast.subaru
+in transit,GUR,"WRX Limited, CVT",Crystal White Pearl,"$32,786",JF1VA1J65G8804193,elcajon.subaru
+in transit,GUR,"WRX Limited, CVT",Crystal White Pearl,"$32,786",JF1VA1J6XG8805453,kearnymesa.subaru
 in transit,GUR,"WRX Limited, CVT",Dark Gray,"$32,786",JF1VA1J63G8804659,irvine.subaru
 in transit,GUR,"WRX Limited, CVT",ICE Silver,"$32,786",JF1VA1J66G8804168,southcoast.subaru
 in transit,GUR,"WRX Limited, CVT",ICE Silver,"$32,786",JF1VA1J60G8804327,irvine.subaru
+in transit,GUR,"WRX Limited, CVT",ICE Silver,"$32,786",JF1VA1J66G8800265,palmsprings.subaru
+in transit,GUR,"WRX Limited, CVT",WR Blue Pearl,"$32,886",JF1VA1J68G8804110,sangera.subaru
 inventory,GUS,"STI, manual",Crystal Black Silica,"$35,652",JF1VA2M67G9802568,puente-hills.subaru
 inventory,GUS,"STI, manual",Crystal Black Silica,"$35,652",JF1VA2M67G9802358,puente-hills.subaru
 in transit,GUS,"STI, manual",Dark Gray,"$35,652",JF1VA2M63G9802759,puente-hills.subaru
@@ -259,18 +347,18 @@ in transit,GUS,"STI, manual",ICE Silver,"$35,730",JF1VA2M69G9800112,subarupacifi
 in transit,GUS,"STI, manual",ICE Silver,"$35,730",JF1VA2M67G9804515,timmonssubaru
 inventory,GUS,"STI, manual",ICE Silver,"$35,730",JF1VA2M67G9800108,glendale.subaru
 in transit,GUS,"STI, manual",ICE Silver,"$35,730",JF1VA2M63G9803149,puente-hills.subaru
-in transit,GUS,"STI, manual",ICE Silver,"$35,730",JF1VA2M65G9802942,puente-hills.subaru
 in transit,GUS,"STI, manual",ICE Silver,"$35,730",JF1VA2M64G9803189,puente-hills.subaru
 in transit,GUS,"STI, manual",ICE Silver,"$35,730",JF1VA2M65G9803346,puente-hills.subaru
+in transit,GUS,"STI, manual",ICE Silver,"$35,730",JF1VA2M65G9802942,puente-hills.subaru
 inventory,GUS,"STI, manual",ICE Silver,"$35,730",JF1VA2M62G9800386,puente-hills.subaru
 in transit,GUS,"STI, manual",ICE Silver,"$35,730",JF1VA2M63G9805189,sierra.subaru
 in transit,GUS,"STI, manual",ICE Silver,"$35,730",JF1VA2M62G9803644,ontario-ca.subaru
 in transit,GUS,"STI, manual",ICE Silver,"$35,730",JF1VA2M64G9804052,ontario-ca.subaru
 in transit,GUS,"STI, manual",ICE Silver,"$35,730",JF1VA2M60G9805165,singh.subaru
 in transit,GUS,"STI, manual",Lapis Blue Pearl,"$35,730",JF1VA2M68G9805480,subarupacific
-in transit,GUS,"STI, manual",Lapis Blue Pearl,"$35,730",JF1VA2M61G9804039,puente-hills.subaru
 in transit,GUS,"STI, manual",Lapis Blue Pearl,"$35,730",JF1VA2M63G9804141,puente-hills.subaru
 in transit,GUS,"STI, manual",Lapis Blue Pearl,"$35,730",JF1VA2M62G9803997,puente-hills.subaru
+in transit,GUS,"STI, manual",Lapis Blue Pearl,"$35,730",JF1VA2M61G9804039,puente-hills.subaru
 in transit,GUS,"STI, manual",Lapis Blue Pearl,"$35,730",JF1VA2M67G9803848,sanbernardino.subaru
 in transit,GUS,"STI, manual",Lapis Blue Pearl,"$35,730",JF1VA2M63G9804396,sanbernardino.subaru
 in transit,GUS,"STI, manual",Lapis Blue Pearl,"$35,730",JF1VA2M68G9805205,sanbernardino.subaru
@@ -287,6 +375,7 @@ inventory,GUS,"STI, manual",WR Blue Pearl,"$35,730",JF1VA2M62G9802980,sierra.sub
 in transit,GUS,"STI, manual",WR Blue Pearl,"$35,730",JF1VA2M62G9805474,singh.subaru
 in transit,GUS,"STI, manual",WR Blue Pearl,"$35,730",JF1VA2M62G9804020,sanbernardino.subaru
 in transit,GUS,"STI, manual",Crystal Black Silica,"$35,828",JF1VA2M65G9803931,galpin.subaru
+in transit,GUS,"STI, manual",Crystal Black Silica,"$35,828",JF1VA2M68G9802787,av.subaru
 in transit,GUS,"STI, manual",Crystal White Pearl,"$35,828",JF1VA2M69G9805214,subarusantamonica
 in transit,GUS,"STI, manual",Crystal White Pearl,"$35,828",JF1VA2M6XG9805237,subarusantamonica
 in transit,GUS,"STI, manual",Crystal White Pearl,"$35,828",JF1VA2M6XG9805304,subarusantamonica
@@ -294,38 +383,74 @@ in transit,GUS,"STI, manual",Crystal White Pearl,"$35,828",JF1VA2M60G9803660,sub
 in transit,GUS,"STI, manual",Crystal White Pearl,"$35,828",JF1VA2M69G9802961,subarushermanoaks
 in transit,GUS,"STI, manual",Crystal White Pearl,"$35,828",JF1VA2M6XG9803049,subarushermanoaks
 in transit,GUS,"STI, manual",Crystal White Pearl,"$35,828",JF1VA2M60G9804100,galpin.subaru
+in transit,GUS,"STI, manual",Crystal White Pearl,"$35,828",JF1VA2M69G9804368,sangera.subaru
 in transit,GUS,"STI, manual",Dark Gray,"$35,828",JF1VA2M68G9805558,subarusantamonica
 in transit,GUS,"STI, manual",Dark Gray,"$35,828",JF1VA2M69G9802684,subarushermanoaks
 in transit,GUS,"STI, manual",Dark Gray,"$35,828",JF1VA2M69G9803463,subarushermanoaks
 inventory,GUS,"STI, manual",Dark Gray,"$35,828",JF1VA2M61G9801626,subarushermanoaks
 inventory,GUS,"STI, manual",Dark Gray,"$35,828",JF1VA2M67G9802330,ladin.subaru
+in transit,GUS,"STI, manual",Dark Gray,"$35,828",JF1VA2M6XG9805318,av.subaru
+in transit,GUS,"STI, manual",Dark Gray,"$35,828",JF1VA2M65G9804044,sangera.subaru
+in transit,GUS,"STI, manual",Dark Gray,"$35,828",JF1VA2M63G9804155,sangera.subaru
 in transit,GUS,"STI, manual",ICE Silver,"$35,828",JF1VA2M69G9805181,ladin.subaru
 in transit,GUS,"STI, manual",ICE Silver,"$35,828",JF1VA2M68G9805270,ladin.subaru
+in transit,GUS,"STI, manual",ICE Silver,"$35,828",JF1VA2M67G9805499,av.subaru
+in transit,GUS,"STI, manual",ICE Silver,"$35,828",JF1VA2M67G9805485,av.subaru
+in transit,GUS,"STI, manual",ICE Silver,"$35,828",JF1VA2M67G9805454,av.subaru
+in transit,GUS,"STI, manual",ICE Silver,"$35,828",JF1VA2M61G9803845,sangera.subaru
+in transit,GUS,"STI, manual",Lapis Blue Pearl,"$35,828",JF1VA2M68G9802918,av.subaru
+in transit,GUS,"STI, manual",Lapis Blue Pearl,"$35,828",JF1VA2M64G9803547,av.subaru
+in transit,GUS,"STI, manual",Lapis Blue Pearl,"$35,828",JF1VA2M66G9803291,sangera.subaru
 in transit,GUS,"STI, manual",WR Blue Pearl,"$35,828",JF1VA2M67G9803784,subarusantamonica
 in transit,GUS,"STI, manual",WR Blue Pearl,"$35,828",JF1VA2M65G9803685,subarusantamonica
 in transit,GUS,"STI, manual",WR Blue Pearl,"$35,828",JF1VA2M61G9804431,subarushermanoaks
 in transit,GUS,"STI, manual",WR Blue Pearl,"$35,828",JF1VA2M68G9805219,galpin.subaru
+in transit,GUS,"STI, manual",Crystal Black Silica,"$36,126",JF1VA2M68G9802952,elcajon.subaru
+in transit,GUS,"STI, manual",Crystal Black Silica,"$36,126",JF1VA2M65G9803475,frank.subaru
+in transit,GUS,"STI, manual",ICE Silver,"$36,126",JF1VA2M64G9801619,elcajon.subaru
 in transit,GUS,"STI, manual",Crystal Black Silica,"$36,202",JF1VA2M65G9804495,southcoast.subaru
 in transit,GUS,"STI, manual",Crystal Black Silica,"$36,202",JF1VA2M68G9804572,southcoast.subaru
 in transit,GUS,"STI, manual",Crystal Black Silica,"$36,202",JF1VA2M6XG9804363,southcoast.subaru
 in transit,GUS,"STI, manual",Crystal Black Silica,"$36,202",JF1VA2M66G9803906,irvine.subaru
+in transit,GUS,"STI, manual",Crystal Black Silica,"$36,202",JF1VA2M61G9803750,elcajon.subaru
+in transit,GUS,"STI, manual",Crystal Black Silica,"$36,202",JF1VA2M61G9804090,elcajon.subaru
+in transit,GUS,"STI, manual",Crystal Black Silica,"$36,202",JF1VA2M62G9804552,kearnymesa.subaru
+in transit,GUS,"STI, manual",Crystal Black Silica,"$36,202",JF1VA2M68G9804023,kearnymesa.subaru
+in transit,GUS,"STI, manual",Crystal Black Silica,"$36,202",JF1VA2M69G9805228,palmsprings.subaru
+in transit,GUS,"STI, manual",Crystal Black Silica,"$36,202",JF1VA2M67G9805440,palmsprings.subaru
 in transit,GUS,"STI, manual",Crystal White Pearl,"$36,202",JF1VA2M68G9803678,southcoast.subaru
 in transit,GUS,"STI, manual",Crystal White Pearl,"$36,202",JF1VA2M69G9803947,southcoast.subaru
 in transit,GUS,"STI, manual",Crystal White Pearl,"$36,202",JF1VA2M68G9804085,southcoast.subaru
 in transit,GUS,"STI, manual",Crystal White Pearl,"$36,202",JF1VA2M63G9804611,irvine.subaru
 in transit,GUS,"STI, manual",Crystal White Pearl,"$36,202",JF1VA2M65G9804657,irvine.subaru
 in transit,GUS,"STI, manual",Crystal White Pearl,"$36,202",JF1VA2M66G9804487,irvine.subaru
+in transit,GUS,"STI, manual",Crystal White Pearl,"$36,202",JF1VA2M62G9804602,elcajon.subaru
+in transit,GUS,"STI, manual",Crystal White Pearl,"$36,202",JF1VA2M61G9802761,elcajon.subaru
+in transit,GUS,"STI, manual",Crystal White Pearl,"$36,202",JF1VA2M61G9804378,elcajon.subaru
+in transit,GUS,"STI, manual",Crystal White Pearl,"$36,202",JF1VA2M65G9804206,kearnymesa.subaru
 in transit,GUS,"STI, manual",Dark Gray,"$36,202",JF1VA2M67G9804417,irvine.subaru
 in transit,GUS,"STI, manual",Dark Gray,"$36,202",JF1VA2M63G9804575,irvine.subaru
 in transit,GUS,"STI, manual",Dark Gray,"$36,202",JF1VA2M67G9804563,irvine.subaru
 in transit,GUS,"STI, manual",Dark Gray,"$36,202",JF1VA2M60G9803867,irvine.subaru
 in transit,GUS,"STI, manual",Dark Gray,"$36,202",JF1VA2M6XG9803178,irvine.subaru
+in transit,GUS,"STI, manual",Dark Gray,"$36,202",JF1VA2M65G9803489,elcajon.subaru
+in transit,GUS,"STI, manual",Dark Gray,"$36,202",JF1VA2M69G9805200,kearnymesa.subaru
+in transit,GUS,"STI, manual",Dark Gray,"$36,202",JF1VA2M65G9805579,kearnymesa.subaru
 in transit,GUS,"STI, manual",ICE Silver,"$36,202",JF1VA2M62G9804499,irvine.subaru
 in transit,GUS,"STI, manual",ICE Silver,"$36,202",JF1VA2M64G9804407,irvine.subaru
 in transit,GUS,"STI, manual",ICE Silver,"$36,202",JF1VA2M69G9804113,irvine.subaru
+in transit,GUS,"STI, manual",ICE Silver,"$36,202",JF1VA2M60G9803531,elcajon.subaru
+in transit,GUS,"STI, manual",ICE Silver,"$36,202",JF1VA2M65G9804299,kearnymesa.subaru
+in transit,GUS,"STI, manual",ICE Silver,"$36,202",JF1VA2M66G9804232,kearnymesa.subaru
+in transit,GUS,"STI, manual",Lapis Blue Pearl,"$36,202",JF1VA2M65G9804190,kearnymesa.subaru
 in transit,GUS,"STI, manual",WR Blue Pearl,"$36,202",JF1VA2M66G9804361,irvine.subaru
 in transit,GUS,"STI, manual",WR Blue Pearl,"$36,202",JF1VA2M65G9804531,irvine.subaru
 in transit,GUS,"STI, manual",WR Blue Pearl,"$36,202",JF1VA2M62G9804454,irvine.subaru
+in transit,GUS,"STI, manual",WR Blue Pearl,"$36,202",JF1VA2M60G9804324,kearnymesa.subaru
+in transit,GUS,"STI, manual",WR Blue Pearl,"$36,202",JF1VA2M67G9804241,kearnymesa.subaru
+in transit,GUS,"STI, manual",WR Blue Pearl,"$36,202",JF1VA2M6XG9804539,kearnymesa.subaru
+in transit,GUS,"STI, manual",WR Blue Pearl,"$36,202",JF1VA2M67G9804255,kearnymesa.subaru
+in transit,GUS,"STI, manual",WR Blue Pearl,"$36,202",JF1VA2M6XG9804220,kearnymesa.subaru
 inventory,GUS,"STI, manual",ICE Silver,"$38,252",JF1VA2V67G9803590,glendale.subaru
 in transit,GUS,"STI, manual",Crystal Black Silica,"$38,330",JF1VA2V61G9804248,timmonssubaru
 in transit,GUS,"STI, manual",Crystal Black Silica,"$38,330",JF1VA2V60G9805097,glendale.subaru
@@ -338,9 +463,12 @@ in transit,GUS,"STI, manual",WR Blue Pearl,"$38,330",JF1VA2V67G9805081,timmonssu
 in transit,GUS,"STI, manual",WR Blue Pearl,"$38,330",JF1VA2V68G9805509,timmonssubaru
 in transit,GUS,"STI, manual",WR Blue Pearl,"$38,330",JF1VA2V63G9805370,glendale.subaru
 in transit,GUS,"STI, manual",Crystal White Pearl,"$38,428",JF1VA2V63G9805109,subarusantamonica
+in transit,GUS,"STI, manual",ICE Silver,"$38,428",JF1VA2V68G9804523,av.subaru
 in transit,GUS,"STI, manual",Crystal Black Silica,"$38,726",JF1VA2V67G9804738,southcoast.subaru
+in transit,GUS,"STI, manual",Dark Gray,"$38,726",JF1VA2V67G9804402,kearnymesa.subaru
 in transit,GUS,"STI, manual",ICE Silver,"$38,726",JF1VA2V61G9804380,irvine.subaru
 in transit,GUS,"STI, manual",Lapis Blue Pearl,"$38,726",JF1VA2V62G9804825,irvine.subaru
+in transit,GUS,"STI, manual",Lapis Blue Pearl,"$38,726",JF1VA2V65G9804348,frank.subaru
 in transit,GUS,"STI, manual",WR Blue Pearl,"$38,726",JF1VA2V66G9805251,irvine.subaru
 inventory,GUV,"STI Limited, manual, tall spoiler",Crystal Black Silica,"$40,952",JF1VA2Y6XG9801800,glendale.subaru
 inventory,GUV,"STI Limited, manual, tall spoiler",ICE Silver,"$40,952",JF1VA2Y65G9801736,glendale.subaru
@@ -356,9 +484,13 @@ inventory,GUV,"STI Limited, manual, tall spoiler",ICE Silver,"$41,030",JF1VA2Y65
 in transit,GUV,"STI Limited, manual, tall spoiler",Lapis Blue Pearl,"$41,030",JF1VA2Y60G9804186,singh.subaru
 in transit,GUV,"STI Limited, manual, tall spoiler",WR Blue Pearl,"$41,030",JF1VA2Y64G9804305,timmonssubaru
 in transit,GUV,"STI Limited, manual, tall spoiler",WR Blue Pearl,"$41,030",JF1VA2Y65G9804118,ontario-ca.subaru
+in transit,GUV,"STI Limited, manual, tall spoiler",Dark Gray,"$41,128",JF1VA2Y67G9804198,av.subaru
 inventory,GUV,"STI Limited, manual, tall spoiler",ICE Silver,"$41,128",JF1VA2Y65G9803468,subarushermanoaks
+in transit,GUV,"STI Limited, manual, tall spoiler",WR Blue Pearl,"$41,128",JF1VA2Y63G9804084,av.subaru
+in transit,GUV,"STI Limited, manual, tall spoiler",Crystal Black Silica,"$41,426",JF1VA2Y68G9804873,elcajon.subaru
 in transit,GUV,"STI Limited, manual, tall spoiler",ICE Silver,"$41,426",JF1VA2Y65G9805317,southcoast.subaru
 in transit,GUV,"STI Limited, manual, tall spoiler",WR Blue Pearl,"$41,426",JF1VA2Y63G9804411,southcoast.subaru
+in transit,GUV,"STI Limited, manual, tall spoiler",WR Blue Pearl,"$41,426",JF1VA2Y68G9805621,elcajon.subaru
 in transit,GUW,"STI Limited, manual, low spoiler",Dark Gray,"$40,952",JF1VA2Z62G9800638,sanbernardino.subaru
 in transit,GUW,"STI Limited, manual, low spoiler",Crystal White Pearl,"$41,030",JF1VA2Z69G9804301,puente-hills.subaru
 in transit,GUW,"STI Limited, manual, low spoiler",Dark Gray,"$41,030",JF1VA2Z65G9805025,glendale.subaru
@@ -366,8 +498,16 @@ in transit,GUW,"STI Limited, manual, low spoiler",ICE Silver,"$41,030",JF1VA2Z66
 in transit,GUW,"STI Limited, manual, low spoiler",ICE Silver,"$41,030",JF1VA2Z63G9803502,singh.subaru
 inventory,GUW,"STI Limited, manual, low spoiler",Pure Red,"$41,030",JF1VA2Z60G9802338,ontario-ca.subaru
 in transit,GUW,"STI Limited, manual, low spoiler",Crystal Black Silica,"$41,128",JF1VA2Z6XG9804923,galpin.subaru
+in transit,GUW,"STI Limited, manual, low spoiler",Crystal Black Silica,"$41,128",JF1VA2Z64G9805629,sangera.subaru
 inventory,GUW,"STI Limited, manual, low spoiler",ICE Silver,"$41,128",JF1VA2Z69G9801527,subarushermanoaks
+in transit,GUW,"STI Limited, manual, low spoiler",ICE Silver,"$41,128",JF1VA2Z65G9804618,sangera.subaru
+in transit,GUW,"STI Limited, manual, low spoiler",Pure Red,"$41,128",JF1VA2Z60G9804395,av.subaru
 inventory,GUW,"STI Limited, manual, low spoiler",WR Blue Pearl,"$41,128",JF1VA2Z67G9802871,galpin.subaru
 inventory,GUW,"STI Limited, manual, low spoiler",Crystal White Pearl,"$41,381",JF1VA2Z60G9802467,subarupacific
+in transit,GUW,"STI Limited, manual, low spoiler",Crystal White Pearl,"$41,426",JF1VA2Z68G9805021,elcajon.subaru
+in transit,GUW,"STI Limited, manual, low spoiler",Dark Gray,"$41,426",JF1VA2Z62G9804303,kearnymesa.subaru
 in transit,GUW,"STI Limited, manual, low spoiler",ICE Silver,"$41,426",JF1VA2Z68G9805150,southcoast.subaru
 in transit,GUW,"STI Limited, manual, low spoiler",ICE Silver,"$41,426",JF1VA2Z64G9805405,irvine.subaru
+in transit,GUW,"STI Limited, manual, low spoiler",ICE Silver,"$41,426",JF1VA2Z61G9804521,elcajon.subaru
+in transit,GUW,"STI Limited, manual, low spoiler",WR Blue Pearl,"$41,426",JF1VA2Z64G9804643,elcajon.subaru
+in transit,GUW,"STI Limited, manual, low spoiler",WR Blue Pearl,"$41,426",JF1VA2Z63G9802687,kearnymesa.subaru

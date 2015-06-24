@@ -4,6 +4,7 @@ from colorama import Fore
 import csv
 
 dealerships = [
+    # these ones work well
     'subarupacific',
     'timmonssubaru',
     'subarusantamonica',
@@ -19,6 +20,15 @@ dealerships = [
     'galpin.subaru',
     'ladin.subaru',
     'sanbernardino.subaru',
+    'av.subaru',
+    'elcajon.subaru',
+    'frank.subaru',
+    'kearnymesa.subaru',
+    'bobbaker-carlsbad.subaru',
+    'palmsprings.subaru',
+    'sangera.subaru',
+
+    # these ones have missing data
     'temecula.subaru',
     'kirby-ventura.subaru',
 ]
@@ -53,6 +63,10 @@ def parseVehicle(section):
     vehicle['code'] = parseDescription(section, 'Model Code:')
     vehicle['color'] = parseDescription(section, 'Exterior Color:')
     vehicle['price'] = section.find('ul', 'pricing').find('span', 'value').text
+
+    # use last pricing value for bobbaker-carlsbad.subaru nuance
+    if vehicle['price'] == 'Get ePrice':
+        vehicle['price'] = section.find('ul', 'pricing').find_all('span', 'value')[1].text
 
     vin_section = section.find('dl', 'vin')
     if vin_section:
@@ -91,29 +105,32 @@ for dealership in dealerships:
         vehicle['dealership'] = dealership
         vehicles.append(vehicle)
 
-print '{}found {} vehicles from {} dealerships{}\n'.format(
-    Fore.CYAN,
-    len(vehicles),
-    len(dealerships),
-    Fore.RESET
-)
-
 # sorted by least significant thing first
 vehicles = sorted(vehicles, key=lambda k: k['color'])
 vehicles = sorted(vehicles, key=lambda k: k['price'])
 vehicles = sorted(vehicles, key=lambda k: k['code'])
 
 for vehicle in vehicles:
-    print('{}{:3}   {:6}   {:17}   {:10}   {:17}   {}{}'.format(
+    print('{}{:3}   {:6}   {:17}   {}{:10}   {}{:21}   {}{}{}'.format(
         Fore.GREEN if vehicle['code'] == 'GUV' else Fore.WHITE,
         vehicle['code'],
         vehicle['price'],
         vehicle['vin'],
+        Fore.GREEN if vehicle['status'] == 'inventory' else Fore.WHITE,
         vehicle['status'],
+        Fore.GREEN if vehicle['dealership'] == 'subarupacific' else Fore.WHITE,
         vehicle['dealership'],
+        Fore.GREEN if vehicle['color'] == 'Crystal White Pearl' else Fore.WHITE,
         vehicle['color'],
         Fore.RESET,
     ))
+
+print '\n{}found {} vehicles from {} dealerships{}'.format(
+    Fore.CYAN,
+    len(vehicles),
+    len(dealerships),
+    Fore.RESET
+)
 
 # output to file
 with open('vehicles.csv', 'wb') as f:
