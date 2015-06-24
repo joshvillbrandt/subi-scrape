@@ -3,30 +3,25 @@ from bs4 import BeautifulSoup
 from colorama import Fore
 import csv
 
-
 dealerships = [
-    # 'subarupacific',
-    # 'timmonssubaru',
-    # 'subarusantamonica',
-    # 'glendale.subaru',
-    # 'renicksubaru',
-    # 'subarushermanoaks',
-    # 'puente-hills.subaru',
-    # 'southcoast.subaru',
-    # 'sierra.subaru',
-    # 'irvine.subaru',
-    # 'ontario-ca.subaru',
-    # 'singh.subaru',
-    # 'galpin.subaru',
-    # 'ladin.subaru',
-    # 'sanbernardino.subaru',
-
+    'subarupacific',
+    'timmonssubaru',
+    'subarusantamonica',
+    'glendale.subaru',
+    'renicksubaru',
+    'subarushermanoaks',
+    'puente-hills.subaru',
+    'southcoast.subaru',
+    'sierra.subaru',
+    'irvine.subaru',
+    'ontario-ca.subaru',
+    'singh.subaru',
+    'galpin.subaru',
+    'ladin.subaru',
+    'sanbernardino.subaru',
     'temecula.subaru',
-
-    # 'kirby-ventura.subaru',
+    'kirby-ventura.subaru',
 ]
-vehicles = []
-
 code_names = {
     'GUN': 'WRX, manual',
     'GUO': 'WRX Premium, manual',
@@ -37,6 +32,7 @@ code_names = {
     'GUV': 'STI Limited, manual, tall spoiler',
     'GUW': 'STI Limited, manual, low spoiler',
 }
+vehicles = []
 
 
 def url(dealership):
